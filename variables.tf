@@ -1,8 +1,8 @@
-variable "rgname" {
+variable "resourcegroupname" {
   type = string
 }
 
-variable "kvname" {
+variable "keyvaultname" {
   type = string
 }
 
